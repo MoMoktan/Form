@@ -1,0 +1,18 @@
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#container{
+    height: 500px;
+    width: 350px;
+    display: inline-block;
+    flex-direction: column;
+    background-color: rgb(161, 160, 160);
+    padding-top: 30px;
+    padding-left: 20px;
+
+}
